@@ -1,0 +1,7 @@
+build/
+x64/
+.vs/
+*.user
+*.o
+*.exe
+codebook_*.dat
